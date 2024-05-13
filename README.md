@@ -1,6 +1,12 @@
 # Awesome zero knowledge proofs learning
 
+## Introduction
+
 如果你刚入门ZKP，个人推荐从视频课程开始，有老师带着学习，会更容易上手，并且课程也是比较系统的，能对ZKP有一个大致的把握。后续可以深入理论、项目、论文等等。ZKP和密码学、区块链紧密相关，因此这里也推荐了一些相关课程和书籍，而深入密码学又会发现和数学相关，特别是抽象代数、数论的知识，只能说前路漫漫，道阻且长，希望不会劝退你。
+
+本仓库推荐资料概览如下：
+
+![xmind](/img/ZKP%20Learning.png)
 
 本仓库的资料推荐完全是鉴于我个人的学习路径，是从我个人角度的一些推荐。每个人的专业背景与学习方法都有所不同，因此仅供参考。不管怎样，能从这里有所收获都是我莫大的荣幸。
 
@@ -9,6 +15,7 @@
 ## Contents
 
 - [Awesome zero knowledge proofs learning](#awesome-zero-knowledge-proofs-learning)
+  - [Introduction](#introduction)
   - [Contents](#contents)
   - [ZKP Courses](#zkp-courses)
     - [探索零知识证明系列 - 郭宇](#探索零知识证明系列---郭宇)
@@ -23,7 +30,7 @@
       - [密码学基础系列](#密码学基础系列)
       - [ECDSA多签系列](#ecdsa多签系列)
       - [zk系列](#zk系列)
-    - [Cyptography I - Dan Boneh](#cyptography-i---dan-boneh)
+    - [Cryptography I - Dan Boneh](#cryptography-i---dan-boneh)
   - [Plonk](#plonk)
     - [理解Plonk系列 - 郭宇](#理解plonk系列---郭宇)
   - [Halo2](#halo2)
@@ -172,7 +179,7 @@
 - [ ] [12 Halo2证明系统](https://www.bilibili.com/video/BV1294y187tc/?spm_id_from=333.788&vd_source=c6586ed2410fae637f393017e00f4845)
 - [ ] [13 zkStark证明系统](https://www.bilibili.com/video/BV1Xu4y1a7tb/?spm_id_from=333.788&vd_source=c6586ed2410fae637f393017e00f4845)
 
-### [Cyptography I](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) - Dan Boneh
+### [Cryptography I](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) - Dan Boneh
 
 如果你觉得上面推荐的课程[密码学系列课程](https://www.bilibili.com/video/BV18T411k74f/?spm_id_from=333.788&vd_source=c6586ed2410fae637f393017e00f4845)还不够过瘾，强烈推荐这门课程，同时推荐读读这门课程的讲义，非常全面，讲义中的证明比较多，前期可以选择跳过。
 
@@ -312,7 +319,9 @@ ZKP中的大部分证明系统都是基于有限域来进行计算的，因此�
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs): github仓库，丰富的ZKP相关资源汇总。
 - [ZKProof](https://docs.zkproof.org/)：很全面的ZKP资源网站。
 - [ZenGo X](https://github.com/ZenGo-X)：有很多rust实现的加密算法库。
-
-<!-- ## Acknowledgements
-
-在我学习ZKP的过程，很高兴能得到许多老师、朋友的帮助，在此表示衷心的感谢。 -->
+- Twitter推荐：
+  - [vitalik.eth](https://twitter.com/VitalikButerin)
+  - [0xAA](https://twitter.com/0xAA_Science)
+  - [Wizard Glacier](https://twitter.com/icerdesign)
+  - [fft.eth](https://twitter.com/liquan_eth)
+  - [0xhhh](https://twitter.com/hhh69251498)
