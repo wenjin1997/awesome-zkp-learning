@@ -57,6 +57,7 @@
     - [Handbook of Elliptic and Hyperelliptic Curve Cryptography - ODED GOLDREICH](#handbook-of-elliptic-and-hyperelliptic-curve-cryptography---oded-goldreich)
   - [Coding Theory](#coding-theory)
     - [Essential Coding Theory](#essential-coding-theory)
+    - [Algebraic Error Correcting Codes](#algebraic-error-correcting-codes)
   - [ZKP Resources](#zkp-resources)
 
 ## ZKP Courses
@@ -306,6 +307,12 @@ ZKP中的大部分证明系统都是基于有限域来进行计算的，因此�
 
 这本书非常推荐，编码理论讲得非常深入。
 
+### [Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/)
+
+课程视频见[这里](https://www.youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr)。
+
+这是一门很不错的讲编码理论的课程，每节课都对应书籍 [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/) 中的一部分，可以视频书籍结合着学习。
+
 ## ZKP Resources
 
 这里推荐一些不错的ZKP学习资源。
@@ -318,6 +325,7 @@ ZKP中的大部分证明系统都是基于有限域来进行计算的，因此�
 - [Zero Knowledge Canon](https://a16zcrypto.com/content/article/zero-knowledge-canon/)：很全面的zk相关资料总结，有很多论文课程资源。
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs): github仓库，丰富的ZKP相关资源汇总。
 - [ZKProof](https://docs.zkproof.org/)：很全面的ZKP资源网站。
+- [USEFUL SITE FOR CRYPTO](https://link.fffmath.com/)：有很多不错的密码学链接资源。
 - [ZenGo X](https://github.com/ZenGo-X)：有很多rust实现的加密算法库。
 - Twitter推荐：
   - [vitalik.eth](https://twitter.com/VitalikButerin)
