@@ -196,7 +196,9 @@
 - [x] [2-多项式编码](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/2-plonk-lagrange-basis.md)
 - [x] [3-置换证明](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/3-plonk-permutation.md)
 - [x] [4-算术约束与拷贝约束](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/4-plonk-constraints.md)
-  - 📝 [笔记](/courses/Plonk-GuoYu/lecture04/notes-plonk-lecture4-constraints.ipynb) 
+  - 📝 [笔记](/courses/Plonk-GuoYu/lecture04/PLONK%20-%20Lecture%205%20-%20算术约束与拷贝约束.pdf) 
+  - 👩‍💻 [笔记代码](/courses/Plonk-GuoYu/lecture04/notes-plonk-lecture4-constraints.ipynb) 
+  
 - [x] [5-多项式承诺](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/5-plonk-polycom.md)
 - [x] [6-实现 Zero Knowledge](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/6-plonk-randomizing.md)
 - [x] [7-Lookup Gate](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-cn/7-plonk-lookup.md)
